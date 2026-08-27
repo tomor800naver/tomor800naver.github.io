@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="우진크리닝 로고">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="24" fill="url(#g)"/>
+  <path d="M20 29h56M25 40h46M30 51h36M35 62h26" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".95"/>
+  <path d="M62 18c0 9-5 15-12 18 4-10 1-16-2-21 7 1 11 2 14 3Z" fill="#d1fae5"/>
+</svg>
